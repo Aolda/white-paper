@@ -14,3 +14,52 @@ Aolda는 **PoW**(Proof of Work)방식을 채택합니다. PoW는 문제를 해�
 
 블록은 30초단위로 생성됩니다. 이전 블록이 생성되고 Broadcast되면 이를 받은 Node들은 nonce값을 확인한 후 다음 블록을 생성하기 시작합니다.
 
+## Block Struct
+
+```json
+{
+	"header":{
+		"nonce":"",
+		"previouseHash":"",
+		"blockHash":"",
+		"merkleroot":"",
+		"difficulty":"",
+		"minor":"",
+		"size":"",
+		"number":"",
+		"timestampe":""
+	}
+	"body":{
+		"transactions":[
+			{
+				"header":{
+					"type":,
+					"hash":"",
+					"blockNumber":"",
+					"blockHash":"",
+					"transactionIndex":"",
+					"from":"",
+					"nonce":"",
+					"signature":{
+						"r":"",
+						"s":"",
+						"v":""
+					}
+				},
+				"body":{
+					"fileHash":"string",
+					"functionName":"string",
+					"arg":["",""],
+					"res":""
+				},
+				{
+					"header":{...},
+					"body":{...}
+				},
+				...
+			}
+		]
+	}
+}
+```
+
