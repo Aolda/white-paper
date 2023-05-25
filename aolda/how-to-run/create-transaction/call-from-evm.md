@@ -22,7 +22,7 @@
 
 ## 3. Broadcast And Push to Mempool&#x20;
 
-<figure><img src="../../.gitbook/assets/3. Broadcast And Push to Mempool (1).png" alt=""><figcaption><p>Fig3. Broadcast And Push to Mempool</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3. Broadcast And Push to Mempool (1) (1).png" alt=""><figcaption><p>Fig3. Broadcast And Push to Mempool</p></figcaption></figure>
 
 (1) 가장 먼저 트랜잭션을 생성한 Node는 자신이 생성한 트랜잭션을 나머지 Node들에게 Broadcast합니다.
 

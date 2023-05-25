@@ -28,7 +28,7 @@ User는 AOLDA Network에 포함된 Node의 endpoint를 직접 찾아 API를 호�
 
 ## 3. Broadcast And Push to Mempool
 
-<figure><img src="../../.gitbook/assets/3. Broadcast And Push to Mempool.png" alt=""><figcaption><p>Fig3. Broadcast And Push to Mempool</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3. Broadcast And Push to Mempool (1).png" alt=""><figcaption><p>Fig3. Broadcast And Push to Mempool</p></figcaption></figure>
 
 (1) Node는 생성된 트랜잭션들을 모두 다른 Node에게 Broadcast합니다.
 

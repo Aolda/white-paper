@@ -10,12 +10,8 @@
     * [use](aolda/aolda-multi-vm/how-to-use/use.md)
     * [Make File](aolda/aolda-multi-vm/how-to-use/make-file.md)
   * [AOL Token](aolda/aolda-multi-vm/aol-token.md)
-* [Node](aolda/node.md)
+* [System](aolda/system.md)
 * [API](aolda/api.md)
-
-## STORY
-
-* [세계관](story/undefined.md)
 
 ## How to run
 
